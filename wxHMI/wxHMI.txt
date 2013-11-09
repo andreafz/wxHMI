@@ -1,0 +1,1 @@
+./Debug/obj/main.o ./Debug/obj/MainFrame.o ./Debug/obj/wxcrafter.o ./Debug/obj/wxcrafter_bitmaps.o ./Debug/obj/c_open.o ./Debug/obj/c_distinta.o ./Debug/obj/c_logger.o ./Debug/obj/c_toolbar.o ./Debug/obj/c_statusbar.o ./Debug/obj/c_vclass.o  ./Debug/obj/win_resources.rc.o   

@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+.codelite/*.*
+doc
+wxHMI/Debug
+wxHMI/Release
+*.bak
